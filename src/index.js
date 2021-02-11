@@ -1,6 +1,7 @@
+// @ts-ignore
 var app = new Vue({ 
     el: '#app',
     data: {
-        message: 'Hello Vue!'
+        message: 'Hello Group 7 from Vue!'
     }
 });
